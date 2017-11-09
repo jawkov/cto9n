@@ -1,0 +1,12 @@
+D:\Labs\MO1\cto9n\cto9n\bin\Debug\cto9n.exe.config
+D:\Labs\MO1\cto9n\cto9n\bin\Debug\cto9n.exe
+D:\Labs\MO1\cto9n\cto9n\bin\Debug\cto9n.pdb
+D:\Labs\MO1\cto9n\cto9n\obj\Debug\cto9n.csprojResolveAssemblyReference.cache
+D:\Labs\MO1\cto9n\cto9n\obj\Debug\cto9n.DiffOperator.resources
+D:\Labs\MO1\cto9n\cto9n\obj\Debug\cto9n.Form1.resources
+D:\Labs\MO1\cto9n\cto9n\obj\Debug\cto9n.Properties.Resources.resources
+D:\Labs\MO1\cto9n\cto9n\obj\Debug\cto9n.csproj.GenerateResource.Cache
+D:\Labs\MO1\cto9n\cto9n\obj\Debug\cto9n.exe
+D:\Labs\MO1\cto9n\cto9n\obj\Debug\cto9n.pdb
+D:\Labs\MO1\cto9n\cto9n\obj\Debug\cto9n.GreenFunc.resources
+D:\Labs\MO1\cto9n\cto9n\obj\Debug\cto9n.Limits.resources
